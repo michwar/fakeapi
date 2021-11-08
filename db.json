@@ -1,7 +1,9 @@
 {
-  "games": [
-    { "id": 1, "title": "Diablo 2" },
-    { "id": 2, "title": "League of Legends" },
-    { "id": 3, "title": "Counter Strike" }
-  ]
+  "games" : {
+      "games": [
+      { "id": 1, "title": "Diablo 2" },
+      { "id": 2, "title": "League of Legends" },
+      { "id": 3, "title": "Counter Strike" }
+    ]
+  }
 }
